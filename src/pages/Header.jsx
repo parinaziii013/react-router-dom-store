@@ -1,5 +1,4 @@
 import { NavLink } from "react-router-dom";
-import '../style.css'
 export const Header = () => {
   return (
     <nav className="bg-[#FFE3E3] p-2 flex justify-around">
