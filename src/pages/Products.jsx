@@ -22,7 +22,7 @@ export const Products = () => {
               </div>
               <p className="w-full font-bold min-h-[70px]">{title}</p>
               <div className="flex justify-between">
-              <p className="bg-red-500 rounded-lg inline-block p-2 text-white">{price}$</p>
+              <p className="bg-red-500 rounded-lg p-2 text-white">{price}$</p>
               <button className="bg-green-500 rounded-lg p-2 transition-all text-white hover:bg-green-600">Buy Now</button>
               </div>
             </div>
